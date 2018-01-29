@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://ys.bitech.cn/iPark/biparke01_appdownload/BI-iPark_Icon.png</string>
+					<string>http://demo.bitech.cn/ShcrlandiParkAPP/icon.png</string>
 					<key>needs-shine</key>
 					<true/>
 				</dict>
@@ -19,19 +19,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://ys.bitech.cn/iPark/biparke01_appdownload/BI-iPark.ipa</string>
+					<string>http://demo.bitech.cn/ShcrlandiParkAPP/hrzd.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bitech.BiPark-E01-Mobile.inhouse</string>
+				<string>com.bitech.hbuildertest.inhouse</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>iPark+</string>
+				<string>华润置地</string>
 			</dict>
 		</dict>
 	</array>
